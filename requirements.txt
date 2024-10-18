@@ -1,0 +1,14 @@
+future
+numpy
+onnx
+pydot
+torchviz
+scikit-learn
+tqdm
+torchrec-nightly
+torchx-nightly
+kafka-python
+tensorboard
+lz4
+confluent_kafka
+quick_queue
